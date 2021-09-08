@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleed-kt" alt="waleed-kt" /></a> </p>
 
-- 🔭 I’m currently working on **ANT ZORRO Modules**
+- 🔭 I’m currently working on **Angular - Typescript**
 
-- 🌱 I’m currently learning **Angular and Front End Stuff**
+- 🌱 I’m currently learning **Angular and Front End Stuff - LeetCode  - HackerRank**
 
-- 👯 I’m looking to collaborate on **ANT ZORRO Tables**
+- 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **Tables n Stuff**
+- 🤝 I’m looking for help with **I'll Update when i am stuck Somewhere xD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/waleed-KT?tab=repositories](https://github.com/waleed-KT?tab=repositories)
 
-- 📝 I regularly write articles on [My Laptop](My Laptop)
+- 📝 I regularly write articles on (My Laptop) _ no portfolio <
 
 - 💬 Ask me about **C#, SQL, Web, Gaming , Anime, Seasons**
 
 - 📫 How to reach me **waleedsajid.99@gmail.com**
 
-- 📄 Know about my experiences [No Link](No Link)
+- 📄 Know about my experiences (will update soon)
 
 - ⚡ Fun fact **I play Valorant and Many Multiplayer Games, Love to Watch Horror & Gore Seasons, Foodie...**
 
